@@ -6,7 +6,7 @@ I got tired of having to generate a new package.json file, install the requisite
 
 # Prerequisites
 
-You must have NPM and NodeJs installed.
+You must have NPM and NodeJS installed.
 
 # Instructions
 
