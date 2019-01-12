@@ -10,7 +10,12 @@ You must have NPM and NodeJs installed.
 
 # Instructions
 
-1) Clone into your working directory with 'git clone https://github.com/tdmnew/sassboilerplate.git'
+1) Clone into your working directory with:
+
+```
+git clone https://github.com/tdmnew/sassboilerplate.git .
+```
+
 2) Run 'NPM Install' to generate the node modules.
 3) Run 'NPM run start' to begin working. Sass will compile automatically when you work from sass/main.scss, and the browser will refresh automatically when you make changes.
 
